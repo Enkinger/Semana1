@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registro Contacto</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">E-mail</string>
+    <string name="descripcion">Descripcion Contacto</string>
+    <string name="btn_guardar">Guardar</string>
+</resources>
